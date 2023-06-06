@@ -15,5 +15,5 @@ spec :
         app : harish
     spec :
       containers :
-        - image : harish2000/pythonapp3
+        - image : harish2000/kubernetes
           name : con1
