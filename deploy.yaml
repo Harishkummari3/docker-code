@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: my-hello-app
-        image: harish2000/kubernetes
+        image: tilak143/kubernetes
         imagePullPolicy: Always
         ports:
         - containerPort: 8085
